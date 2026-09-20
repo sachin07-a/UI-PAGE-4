@@ -1,4 +1,4 @@
-# Swiggy Landing Page Clone 🍔
+# UI-PAGE-4 🍔
 
 ![Swiggy Landing Page Preview](./preview.png)
 
@@ -21,7 +21,7 @@ A pixel-aligned recreation of the **Swiggy** landing page UI built from scratch 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sachin07-a/tailwind-swiggy.git
+   git clone https://github.com/sachin07-a/UI-PAGE-4.git
    ```
 2. Open `index.html` in any web browser.
 
