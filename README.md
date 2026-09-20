@@ -1,5 +1,7 @@
 # Swiggy Landing Page Clone 🍔
 
+![Swiggy Landing Page Preview](./preview.png)
+
 A pixel-aligned recreation of the **Swiggy** landing page UI built from scratch using **HTML5** and **Tailwind CSS**.
 
 > **Note:** 100% hand-coded without AI assistance to practice core frontend fundamentals and layout design.
